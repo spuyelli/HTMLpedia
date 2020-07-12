@@ -1,15 +1,22 @@
-body{
-  background: #3b3839;
-}
 header{
   background: orange;
 }
 nav{
   background: lightblue;
 }
+footer{
+  background: green;
+}
+body{
+  background: #3b3839;
+  color: gray;
+}
 section{
   background: pink;
 }
-footer{
-  background: green;
+#titulo{
+  color: orange;
+}
+.titulo{
+  color: red
 }
