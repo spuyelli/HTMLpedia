@@ -18,5 +18,8 @@ section{
   color: orange;
 }
 .titulo{
-  color: red
+  color: red;
+}
+footer p:nth-child(2){
+  color: red;
 }
