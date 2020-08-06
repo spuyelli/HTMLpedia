@@ -1,27 +1,30 @@
 header{
-  background: orange;
+  background: ;
 }
 nav{
-  background: lightblue;
+  background: ;
 }
 footer{
-  background: green;
+  background: ;
 }
 body{
   background: #3b3839;
   color: gray;
-  font-family: arial;
+  font-family: 'Open Sans', sans-serif;
   font-size: 13px;
 }
 h1{
-  font-family: times new roman;
+  font-weight: 700;
 }
 p{
   line-height: 20px;
   letter-spacing: 2px;
 }
+strong{
+  color: black;
+}
 section{
-  background: pink;
+  background: ;
 }
 #titulo{
   color: orange;
@@ -30,7 +33,7 @@ section{
   color: red;
 }
 footer p:nth-child(2){
-  color: red;
+  color: white;
   text-transform: uppercase;
   text-shadow: 5px 5px 5px;
 }
